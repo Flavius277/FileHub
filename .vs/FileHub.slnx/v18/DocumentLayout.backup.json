@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flavi\\source\\repos\\FileHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|c:\\users\\flavi\\source\\repos\\filehub\\controllers\\userscontroller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|solutionrelative:controllers\\userscontroller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|c:\\users\\flavi\\source\\repos\\filehub\\controllers\\userscontroller\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|solutionrelative:controllers\\userscontroller\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|c:\\users\\flavi\\source\\repos\\filehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|c:\\users\\flavi\\source\\repos\\filehub\\database\\context\\filehubdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|solutionrelative:database\\context\\filehubdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|c:\\users\\flavi\\source\\repos\\filehub\\database\\classes\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14041A1E-81BD-F173-1187-03A4D8FFAE01}|FileHub.csproj|solutionrelative:database\\classes\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\source\\repos\\FileHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\flavi\\source\\repos\\FileHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T18:14:59.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHubDb.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\source\\repos\\FileHub\\Database\\Context\\FileHubDb.cs",
+              "RelativeDocumentMoniker": "Database\\Context\\FileHubDb.cs",
+              "ToolTip": "C:\\Users\\flavi\\source\\repos\\FileHub\\Database\\Context\\FileHubDb.cs",
+              "RelativeToolTip": "Database\\Context\\FileHubDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T17:13:48.961Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\source\\repos\\FileHub\\Database\\Classes\\Users.cs",
+              "RelativeDocumentMoniker": "Database\\Classes\\Users.cs",
+              "ToolTip": "C:\\Users\\flavi\\source\\repos\\FileHub\\Database\\Classes\\Users.cs",
+              "RelativeToolTip": "Database\\Classes\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:22:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\source\\repos\\FileHub\\Controllers\\UsersController\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController\\UsersController.cs",
+              "ToolTip": "C:\\Users\\flavi\\source\\repos\\FileHub\\Controllers\\UsersController\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:18:40.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\source\\repos\\FileHub\\Controllers\\UsersController\\UsersService.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController\\UsersService.cs",
+              "ToolTip": "C:\\Users\\flavi\\source\\repos\\FileHub\\Controllers\\UsersController\\UsersService.cs",
+              "RelativeToolTip": "Controllers\\UsersController\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:19:08.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
